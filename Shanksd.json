@@ -1,7 +1,7 @@
 {
     "serverstatus":"false",
-    "noticemode":"true",
-    "dataclearmode":"false",
+    "noticemode":"false",
+    "dataclearmode":"true",
     "servermeassage":"Wait We Are Working On a new Update !",
     "opentime":" Just wait few more times 🙂",
     "libs":"https://github.com/ONEBIECE/ONEBIECE/raw/refs/heads/main/libSHANKAS.zip",
